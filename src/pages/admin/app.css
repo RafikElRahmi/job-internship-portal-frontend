@@ -1,0 +1,40 @@
+.bg-users-admin {
+  background-image: url("../../images/bgPosts.webp");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.bg-societies-admin {
+  background-image: url("../../images/societies.jpg");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.bg-postulations-admin {
+  background-image: url("../../images/postulations.webp");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.bg-admins-admin {
+  background-image: url("../../images/bgadmins.jpg");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.bg-user-admin {
+  background-image: url("../../images/users.jpg");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.bg-profileposts {
+  background-image: url("../../images/profilefromposts.jpg");
+ background-attachment: fixed;
+ min-height: 100vh;
+ background-size: 100vw 100vh;
+}
+.box{
+  width: 80PX;
+  height: 30px;
+}

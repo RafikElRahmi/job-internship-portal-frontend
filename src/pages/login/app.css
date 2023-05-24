@@ -1,0 +1,11 @@
+.error-required{
+    height: 30px;
+    width: 250px;
+    color: red;
+    margin-left: 20px;
+    display: block;
+    
+}
+.bg-drop{
+    background-color: transparent;
+}

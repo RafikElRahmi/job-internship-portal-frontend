@@ -1,0 +1,27 @@
+.bg-img-society {
+  background: url("../../images/BgSociety.png") no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+.bg-profile {
+  background: url("../../images/profilephoto.webp") no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+.bg-postulations{
+   background: url("../../images/bg-Postulations.webp") no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+.bg-postule{
+   background: url("../../images/postule.webp") no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+.bg-drop {
+  background-color: transparent;
+}
