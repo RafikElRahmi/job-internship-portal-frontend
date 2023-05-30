@@ -13,6 +13,7 @@ import "./app.css";
 import { BaseURL } from "../../components/auth/BaseURL";
 import axios from "axios";
 import { useAuth } from "../../components/auth/Auth";
+import Search from "./Search";
 
 function NavBar() {
   const auth = useAuth();
@@ -301,10 +302,7 @@ function NavBar() {
               About
             </Nav.Link>
           </Nav>
-          <Form className="d-flex">
-            <FormControl type="text" placeholder="Search" className="mr-sm-2" />
-            <Button variant="outline-success">Search</Button>
-          </Form>
+          <Search/>
           <NavDropdown
             title={
               <img
